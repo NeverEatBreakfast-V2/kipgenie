@@ -1,4 +1,4 @@
-# 1346.lol
+# jaydenly.lol
 
 A sleek, terminal-styled web proxy powered by uv static, featuring a minimalist interface with a retro-computing aesthetic.
 
